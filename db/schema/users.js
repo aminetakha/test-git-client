@@ -31,3 +31,5 @@ const users = mysqlTable("Users", {
 module.exports = {
   users,
 };
+
+console.log("name");
